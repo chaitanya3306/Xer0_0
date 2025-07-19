@@ -1,1 +1,1 @@
-In This file There Is all Information about the Xer0_0 bot
+# In This file There Is all Information about the Xer0_0 bot
